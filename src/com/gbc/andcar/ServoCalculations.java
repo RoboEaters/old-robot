@@ -47,7 +47,7 @@ class ServoCalculations {
 	double backwardPercentMotor;
 
 	// wheel calculations
-	int MIDWHEEL = 1600;
+	int MIDWHEEL = 1400;
 	int WHEELMIN = 1900;
 	int WHEELMAX = 900;
 	double wheelPW;
